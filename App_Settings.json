@@ -1,0 +1,6 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+	"Key_Identifier_WebApp":"${{KEY_IDENTIFIER_WEBAPP}}"
+  }
+}
